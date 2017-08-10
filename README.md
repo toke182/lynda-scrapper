@@ -11,3 +11,6 @@ Execution:
 ```
 node index.js
 ```
+
+Video:
+![](https://j.gifs.com/nZLwEE.gif)
