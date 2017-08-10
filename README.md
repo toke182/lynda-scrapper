@@ -14,4 +14,4 @@ node index.js
 
 Video:
 
-![](https://gifs.com/gif/lynda-scrapper-nZLwEE)
+![](https://j.gifs.com/nZLwEE.gif)
