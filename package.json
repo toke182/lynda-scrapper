@@ -1,0 +1,22 @@
+{
+  "name": "lynda-scrapper",
+  "version": "1.0.0",
+  "description": "Scrapper for lynda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Prieto Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "clear": "0.0.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.2.1",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4",
+    "tough-cookie": "^2.3.2",
+    "youtube-dl": "^1.11.1"
+  }
+}
